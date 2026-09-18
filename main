@@ -1,0 +1,4 @@
+print("Jai Bharat! Bharat AI shuru ho raha hai...")
+# Yaha se aapka AI shuru hoga
+user_input = input("Aapse kaise madad karu? ")
+print(f"Aapne kaha: {user_input} - Bharat AI jald jawab dega!")
